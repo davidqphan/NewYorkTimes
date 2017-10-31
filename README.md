@@ -46,11 +46,11 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
+Coming Soon.
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+TBD.
 
 ## Open-source libraries used
 
